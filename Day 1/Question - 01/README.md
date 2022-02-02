@@ -4,6 +4,6 @@
 Link - https://www.interviewbit.com/problems/pick-from-both-sides/
 
 
-Great Question!
-Had to go through hints for the same
+Great Question!<br>
+Had to go through hints for the same<br>
 Concept Learned - Sliding window
