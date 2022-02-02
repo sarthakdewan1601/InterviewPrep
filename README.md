@@ -1,4 +1,4 @@
-# TowerOfDSA
+# TowerOfPreparation
 
 ### Welcome peeps!
 
