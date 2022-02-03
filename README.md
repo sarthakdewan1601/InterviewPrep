@@ -36,6 +36,7 @@ You can track my progress on these profiles as well.
 * SQL
 
 <hr>
+
 ### Notes
 
 * Will also be doing Competitive Programming on various websites like -
