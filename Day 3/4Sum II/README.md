@@ -4,7 +4,8 @@
 
 Link - https://leetcode.com/problems/4sum-ii/
 
-* **LEETCODE DAILY CHALLENGE - 3RD FEBRAURY 2022**
+***LeetCode Daily Challenge - 3rd Febraury, 2022***
+<br>
 * Went through hints
 * Approach -
   * Divide the array in ```(nums1 , nums2)``` and ```(num3 , nums4)```
