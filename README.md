@@ -2,7 +2,7 @@
 
 ### Welcome peeps!
 
-I'll be preparing DSA for my interviews and will be posting every question / topic I'll be preparing.
+I'll be preparing for my interviews and will be posting every question / topic I'll be preparing.
 
 I will be updating this Repository everyday so that I can track my progress.
 
@@ -17,4 +17,16 @@ I will be updating this Repository everyday so that I can track my progress.
 ### Programming Languages
 
 <li>C++</li>
+<li>SQL</li>
+
+<hr>
+
+* Will also be doing Competitive Programming on various websites like -
+  * Codeforces
+  * Codechef
+  * LeetCode
+
+#### Hope I maintain my consistency and crack my interviews😊
+
+
 
