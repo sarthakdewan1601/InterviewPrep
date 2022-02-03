@@ -10,11 +10,11 @@ I will be updating this Repository everyday so that I can track my progress.
 
 ### Websites I'll use to code-
 
-<li>Leetcode - https://leetcode.com/dewan_sarthak/</li>
-<li>Codeforces - https://codeforces.com/profile/dewansarthak1601</li>
-<li>Interview Bit - https://www.interviewbit.com/profile/sarthak-dewan</li>
-<li>GFG - https://auth.geeksforgeeks.org/user/dewansarthak/profile</li>
-<li>Codechef - https://www.codechef.com/users/dracarys1601</li>
+* Leetcode - https://leetcode.com/dewan_sarthak/
+* Codeforces - https://codeforces.com/profile/dewansarthak1601
+* Interview Bit - https://www.interviewbit.com/profile/sarthak-dewan
+* GFG - https://auth.geeksforgeeks.org/user/dewansarthak/profile
+* Codechef - https://www.codechef.com/users/dracarys1601
 <br>
 You can track my progress on these profiles as well.
 
@@ -32,10 +32,11 @@ You can track my progress on these profiles as well.
 
 ### Programming Languages
 
-<li>C++</li>
-<li>SQL</li>
+* C++
+* SQL
 
 <hr>
+### Notes
 
 * Will also be doing Competitive Programming on various websites like -
   * Codeforces
