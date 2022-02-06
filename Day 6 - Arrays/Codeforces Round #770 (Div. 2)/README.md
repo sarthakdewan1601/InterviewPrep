@@ -12,15 +12,17 @@ Link - https://codeforces.com/contest/1634
 * Not getting demotivated at all and trying my best again and again.
 
 <br>
-
-* Analysis -
 <br>
 
 ### QUESTIONS SOLVED - 
 <br>
+
 **Q1 (Reverse and Concatenate)**
+
 <br>
+
 Code -
+<br>
 ```
 void solve()
 {
@@ -104,7 +106,7 @@ void solve()
 	}
 }
 ```
-Appraoch -
+Approach -
 <br>
 * k = 1, always answer exists
 * k >= 2, answer exists only when n%2 == 0, otherwise answer is NO
