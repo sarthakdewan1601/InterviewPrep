@@ -10,6 +10,7 @@ Link - https://codeforces.com/contest/1634
 * My rating goes down for 2 contest then go up for 3.
 * So I am happy right now in my space competing with people like me.
 * Not getting demotivated at all and trying my best again and again.
+* Rating change - <span style = "color:red;"> 1091 &rarr; 1030 </span>
 
 <br>
 <br>
