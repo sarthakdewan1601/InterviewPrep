@@ -9,7 +9,7 @@ Link - https://www.interviewbit.com/problems/next-smallest-palindrome/
 
 Approach - 
 
-```
+
 There can be three different types of inputs that need to be handled separately.
 
 The input number is palindrome and has all 9s. For example “9 9 9”. Output should be “1 0 0 1”
@@ -48,7 +48,7 @@ Next palindrome for “7 1 3 3 2 2″ is “7 1 4 4 1 7”
 Next palindrome for “1 2 3 4 6 2 8″ is “1 2 3 5 3 2 1”
 Next palindrome for “9 4 1 8 7 9 7 8 3 2 2″ is “9 4 1 8 8 0 8 8 1 4 9”
 We handle this subcase like Case 1. We just add 1 to the middle digit (or digits in case n is even) propagate the carry towards MSB digit of left side and simultaneously copy mirror of the left side to the right side.
-```
+
 
 
 ***Cheers!***
